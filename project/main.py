@@ -71,4 +71,4 @@ if submitted:
     st.markdown("---")
     st.subheader("예측 결과")
 
-    st.metric("칼로리 소모량", f"{prediction}")
+    st.metric("칼로리 소모량", f"{np.exp(prediction):.2f}")
