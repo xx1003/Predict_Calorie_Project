@@ -12,3 +12,4 @@ pgmpy
 jupyterlab
 xgboost
 lightgbm
+streamlit

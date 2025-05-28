@@ -177,3 +177,6 @@ cython_debug/
 # big amount data
 project/test.csv
 project/train.csv
+
+# kaggle submission
+project/submission*
